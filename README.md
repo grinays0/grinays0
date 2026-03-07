@@ -1,13 +1,17 @@
-<h1 align="center">🕷️ grinays0 </h1>
+<h1 align="left">grinays0</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+<img width="20" />
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=py" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" alt="html logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" alt="css logo"  />
   <img width="20" />
-  <img src="https://tenor.com/bWK95.gif" alt="sasuke gif"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi logo"  />
+  <img width="20" />
+  <!-- <img src="https://tenor.com/bWK95.gif" alt="sasuke gif"  />
+  <img width="20" /> -->
 </div>
