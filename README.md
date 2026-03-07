@@ -12,5 +12,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi logo"  />
   <img width="20" />
-  <img src="sasuke_uchiha.gif" alt="sasuke gif" />
+</div>
+<div align="left">
+  <img src="sasuke-uchiha.gif" alt="sasuke gif" />
 </div>
